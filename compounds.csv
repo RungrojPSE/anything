@@ -1,0 +1,61 @@
+Name,CAS,Class,Formula,SMILES
+"1,1,1-Trichloroethane",000071-55-6,Halide,C2H3Cl3,CC(Cl)(Cl)Cl
+"1,2-Dichloroethane",000107-06-2,Halide,C2H4Cl2,ClCCCl
+1-Butanol,000071-36-3,Alcohol,C4H10O,CCCCO
+2-Butanol,000078-92-2,Alcohol,C4H10O,CCC(C)O
+2-Propanol,000067-63-0,Alcohol,C3H8O,CC(C)O
+Acetone,000067-64-1,Ketone,C3H6O,CC(C)=O
+Acetonitrile,000075-05-8,Nitrile,C2H3N,CC#N
+Benzene,000071-43-2,Aromatic-HC,C6H6,c1ccccc1
+Butyl Acetate,000123-86-4,Ester,C6H12O2,CCCCOC(C)=O
+Butyl Cellosolve,000111-76-2,Alcohol-Ether,C6H14O2,CCCCOCCO
+Carbon Tetrachloride,000056-23-5,Chloride,CCl4,ClC(Cl)(Cl)Cl
+Chlorobenzene,000108-90-7,Chloride,C6H5Cl,Clc1ccccc1
+Chloroform,000067-66-3,Chloride,CHCl3,ClC(Cl)Cl
+Cyclohexane,000110-82-7,Cyclic-HC,C6H12,C1CCCCC1
+Cyclohexanol,000108-93-0,Alcohol,C6H12O,OC1CCCCC1
+cyclohexanone,000108-94-1,Ketone,C6H10O,O=C1CCCCC1
+Dichloromethane,000075-09-2,Chloride,CH2Cl2,ClCCl
+Diisopropyl Ether,000108-20-3,Ether,C6H14O,CC(C)OC(C)C
+Dimethyl formamide,000068-12-2,Amide,C3H7NO,CN(C)C=O
+Dimethylacetamide,000127-19-5,Amide,C4H9NO,CC(=O)N(C)C
+Dimethylsulphoxide,000067-68-5,S-oxide,C2H6OS,CS(C)=O
+Ethanol,000064-17-5,Alcohol,C2H6O,CCO
+Diethyl Ether,000060-29-7,Ether,C4H10O,CCOCC
+Ethyl Acetate,000141-78-6,Ester,C4H8O2,CCOC(C)=O
+Ethyl Benzene,000100-41-4,Aromatic,C8H10,CCc1ccccc1
+"1,2-Dimethoxyethane",000110-71-4,Ether,C4H10O2,COCCOC
+Furfural,000098-01-1,Ether-Aldehyde,C5H4O2,O=Cc1ccco1
+Heptane,000142-82-5,Alkane,C7H16,CCCCCCC
+Hexane,000110-54-3,Alkane,C6H14,CCCCCC
+1-pentanol,000071-41-0,Alcohol,C5H12O,CCCCCO
+1-hexanol,000111-27-3,Alcohol,C6H14O,CCCCCCO
+1-heptanol,000111-70-6,Alcohol,C7H16O,CCCCCCCO
+1-octanol,000111-87-5,Alcohol,C8H18O,CCCCCCCCO
+Methanol,000067-56-1,Alcohol,CH4O,CO
+Methyl Acetate,000079-20-9,Ester,C3H6O2,COC(C)=O
+Methyl Cellosolve,000109-86-4,Alcohol-Ether,C3H8O2,COCCO
+Methyl ethyl ketone,000078-93-3,Ketone,C4H8O,CCC(C)=O
+Methyl isobutyl ketone,000108-10-1,Ketone,C6H12O,CC(=O)CC(C)C
+Dioxane,000505-22-6,Ether,C4H8O2,C1COCCO1
+Pentane,000109-66-0,Alkane-HC,C5H12,CCCCC
+1-Propanol,000071-23-8,Alcohol,C3H8O,CCCO
+Pyridine,000110-86-1,Amine,C5H5N,c1ccncc1
+Tetrahydrofuran,000109-99-9,Ester,C4H8O,C1CCOC1
+Toluene,000108-88-3,Aromatic-HC,C7H8,Cc1ccccc1
+Water,007732-18-5,Aqueous,H2O,O
+Xylenes,000108-38-3,Aromatic-HC,C8H10,Cc1cccc(C)c1
+Propionic acid,000079-09-4,Acid,C3H6O2,CCC(=O)O
+2-Ethylhexanol,000104-76-7,Alcohol,C8H18O,CCCCC(CC)CO
+Ethylene Glycol,000107-21-1,Alcohol,C2H6O2,OCCO
+Isopropyl acetate,000108-21-4,Ester,C5H10O2,CC(=O)OC(C)C
+Mesitylene,000108-67-8,Aromatic-HC,C9H12,Cc1cc(C)cc(C)c1
+Methyl cyclohexane,000108-87-2,Cyclic-HC,C7H14,CC1CCCCC1
+n-Propyl acetate,000109-60-4,Ester,C5H10O2,CCCOC(C)=O
+Diethylene glycol butyl ether,000112-34-5,Ether-Alcohol,C8H18O3,CCCCOCCOCCO
+Dimethyl ether,000115-10-6,Ether,C2H6O,COC
+Triethylamine,000121-44-8,Amine,C6H15N,CCN(CC)CC
+"N,N-Dimethylaniline",000121-69-7,Amine,C8H11N,CN(C)c1ccccc1
+t-Butyl acetate,000540-88-5,Ester,C6H12O2,CC(=O)OC(C)(C)C
+1-Methyl-2-Pyrrolidone,000872-50-4,Amide,C5H9NO,CN1CCCC1=O
+Methyl tertbutyl ether,001634-04-4,Ether,C5H12O,COC(C)(C)C
